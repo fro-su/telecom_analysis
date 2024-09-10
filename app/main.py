@@ -13,7 +13,7 @@ if rpath not in sys.path:
 
 # Function to load data from a raw GitHub URL
 def load_data_from_github():
-    data_url = 'https://raw.githubusercontent.com/brook1167/Telecom-Analysis/task-3/data/telecom.csv'
+    data_url = 'https://raw.githubusercontent.com/fro-su/telecom_analysis/task-4/data/telecom.csv'
     response = requests.get(data_url)
     if response.status_code == 200:
         # Convert the response content into a pandas DataFrame
