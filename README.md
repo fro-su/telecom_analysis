@@ -3,7 +3,9 @@
 # Installation
 
 Clone the repository: git clone https://github.com/fro-su/telecom_analysis.git
+
 Navigate to the project directory: cd telecom_analysis
+
 Install the required dependencies: pip install -r requirements.txt
 
 # Introduction & Overview
